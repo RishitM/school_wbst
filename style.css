@@ -28,6 +28,14 @@ body
     color: darksalmon ;
     background-color: blanchedalmond ;
 }
+#ACV{
+    color: aqua;
+    background-color: black ;
+}
+#CAMPLIFE{
+    color: black;
+    background-color:cyan;
+}
 p{
  font-family: 'Cinzel Decorative', cursive;
     padding: 50px;
